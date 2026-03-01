@@ -11,6 +11,9 @@ This project presents an end-to-end analysis of Blinkit’s retail sales data to
 
 ## Dataset Used
 
+The dataset used for this project can be accessed here:
+
+[BlinkIT Grocery Data](./BlinkIT%20Grocery%20Data.xlsx)
 
 
 ---
