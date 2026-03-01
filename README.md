@@ -1,54 +1,95 @@
-# blinkit-sales-dashboard
-Retail Data Analysis | Python & Power BI
-# Project Overview
-This project analyzes Blinkit’s retail sales data to evaluate product performance, outlet contribution, and revenue distribution.
-The objective is to derive actionable insights and present them through an interactive business dashboard.
-# Dataset
-Structured transactional retail dataset including:
-Item Type
-Item Fat Content
-Outlet Type
-Outlet Location Tier
-Sales
-Item Visibility
-Customer Rating
-# Key Business Questions
-Which product categories generate maximum revenue?
-Which outlet types contribute the most to sales?
-How does location tier impact performance?
-Does product fat content influence demand?
-What are the overall sales trends and distribution patterns?
-# Data Preparation (Python)
-Handled missing values
-Removed duplicates
-Standardized categorical fields
-Validated numeric columns
-Prepared structured dataset for visualization
+# Blinkit Sales Dashboard  
+Retail Data Analysis Project | Python & Power BI  
+
+---
+
+## Project Overview
+
+This project presents an end-to-end analysis of Blinkit’s retail sales data to evaluate sales performance, product contribution, and outlet-level efficiency. The objective is to transform structured transactional data into meaningful business insights and communicate those insights through an interactive Power BI dashboard.
+
+---
+
+## Dataset Overview
+
+The dataset contains structured retail transaction records including:
+
+- Item Type
+- Item Fat Content
+- Outlet Type
+- Outlet Size
+- Outlet Location Tier
+- Sales
+- Customer Rating
+
+---
+
+## Business Questions
+
+- Which product categories generate the highest sales?
+- Which outlet types contribute the most to total sales?
+- How does outlet location tier impact overall performance?
+- Does item fat content influence sales patterns?
+- What is the distribution of sales across different outlet sizes?
+
+---
+
+## Data Preparation (Python)
+
+The following preprocessing steps were performed:
+
+- Handling missing values
+- Removing duplicate records
+- Standardizing categorical variables
+- Correcting data types
+- Validating numerical fields
+- Preparing structured dataset for visualization
+
 Libraries Used:
-Pandas
-NumPy
-# Dashboard Development (Power BI)
+
+- Pandas
+- NumPy
+
+---
+
+## Dashboard Development (Power BI)
+
 The interactive dashboard includes:
-Total Revenue KPI
-Average Sales per Item
-Total Items Sold
-Average Rating
-Sales by Item Type
-Sales by Outlet Type
-Sales by Location Tier
-Fat Content vs Revenue Analysis
-Interactive slicers for dynamic filtering
-# Key Insights
-A small number of product categories drive a significant share of revenue.
-Certain outlet types consistently outperform others.
-Urban location tiers contribute higher revenue concentration.
-Product attribute segmentation reveals differentiated demand behavior.
-# Business Implications
-Prioritize high-performing product categories.
-Replicate strong outlet models in similar regions.
-Optimize inventory allocation based on demand trends.
-# Tools Used
-Python (Data Cleaning)
-Pandas & NumPy
-Power BI (Data Modeling & Dashboard Development)
-# Dashboard
+
+### Core KPIs
+
+- Total Sales
+- Total Number of Items
+- Average Sales per Item
+- Average Customer Rating
+
+### Analytical Visualizations
+
+- Sales by Item Type
+- Sales by Item Fat Content
+- Sales by Outlet Type
+- Sales by Outlet Location Tier
+- Sales by Outlet Size
+- Outlet Establishment Trend
+
+---
+
+## Key Insights
+
+- A small number of item categories contributes a significant share of total sales.
+- Certain outlet types consistently outperform others in sales performance.
+- Tier-based outlet locations show variations in sales concentration.
+- Sales distribution differs across outlet sizes and product categories.
+
+---
+
+## Business Implications
+
+- Focus inventory planning on high-performing item categories.
+- Expand successful outlet formats in similar location tiers.
+- Maintain the right stock levels in outlets based on their sales performance.
+- Use customer rating insights to improve products where needed.
+---
+
+## Dashboard
+<img width="1149" height="664" alt="blinkit" src="https://github.com/user-attachments/assets/6ab58bac-e23c-4970-9563-339b61c931b3" />
+
