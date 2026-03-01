@@ -9,17 +9,9 @@ This project presents an end-to-end analysis of Blinkit’s retail sales data to
 
 ---
 
-## Dataset Overview
+## Dataset Used
 
-The dataset contains structured retail transaction records including:
 
-- Item Type
-- Item Fat Content
-- Outlet Type
-- Outlet Size
-- Outlet Location Tier
-- Sales
-- Customer Rating
 
 ---
 
